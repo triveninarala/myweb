@@ -21,4 +21,8 @@ variable "instancetype" {
 variable "test"  {
   type = string
 }
+variable "test1"  {
+  type = string
+}
+
 
