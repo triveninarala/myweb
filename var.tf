@@ -18,3 +18,7 @@ variable "instancetype" {
     us-east-2 = "t3.micro"
     }
 }
+variable "test" {
+type = string
+}
+
