@@ -18,7 +18,17 @@ variable "instancetype" {
     us-east-2 = "t3.micro"
     }
 }
+<<<<<<< HEAD
 variable "test" {
 type = string
 }
+=======
+variable "test"  {
+  type = string
+}
+variable "test1"  {
+  type = string
+}
+
+>>>>>>> 989b121339492a1765ace6b13340f375cd27c00d
 
